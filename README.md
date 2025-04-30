@@ -4,9 +4,8 @@
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-cloudformation-updated)
 
-**Author:** davidniiamui@gmail.com  
-**Email:** niiobdavid@gmail.com
-
+**Author:** Nii OB  
+**Email:** davidniiamui@gmail.com
 ---
 
 ![Image](http://learn.nextwork.org/genuine_navy_mysterious_monkey/uploads/aws-devops-cloudformation-updated_bd8b836b)
